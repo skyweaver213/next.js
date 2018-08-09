@@ -1,5 +1,5 @@
 {
-  "name": "with-dotenv",
+  "name": "with-typestyle",
   "version": "1.0.0",
   "scripts": {
     "dev": "next",
@@ -7,10 +7,10 @@
     "start": "next start"
   },
   "dependencies": {
-    "dotenv-webpack": "1.5.7",
     "next": "latest",
     "react": "^16.0.0",
-    "react-dom": "^16.0.0"
+    "react-dom": "^16.0.0",
+    "typestyle": "^2.0.1"
   },
   "license": "ISC"
 }
